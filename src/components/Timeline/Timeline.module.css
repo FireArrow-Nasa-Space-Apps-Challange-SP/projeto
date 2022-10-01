@@ -12,16 +12,18 @@
     background-color: white;
     top: 0;
     bottom: 0;
-    left: 5%;
+    left: 8%;
     margin-left: -3px;
+}
+
+.Active{
+    margin: 10px 0px 0px 10px
 }
 
 .Active > h2 {
     font-size: 30px;
-    margin: 10px 0px 0px 0px
 }
 .Active > p {
-    margin: 10px 0px 10px 0px;
     font-size: 17px !important;
 }
 
@@ -43,6 +45,8 @@
 
 /* Container around content */
 .Container {
+    display: block;
+    text-decoration: none;
     padding: 0.1px 0px 0px 25px;
     margin-bottom: 70px;
     position: relative;
@@ -65,7 +69,7 @@
     background-color: white;
     top: 15px;
     border-radius: 50%;
-    margin-left: 3px;
+    margin-left: 11px;
     z-index: 1;
 }
 
@@ -75,13 +79,13 @@
 
 .Container:hover::after {
     margin-top: 10px;
-    margin-left: -5px;
+    margin-left: 5px;
     width: 36px;
     height: 36px;
 }
 
 .Active.Container::after {
-    margin-left: -5px;
+    margin-left: -6px;
     width: 36px;
     height: 36px;
     

@@ -9,7 +9,28 @@ function App() {
         <Timeline />
       </aside>
       <main>
-        
+        <section id="section1">
+
+        </section>
+        <section id="section2">
+          
+        </section>
+        <section id="section3">
+          
+        </section>
+        <section id="section4">
+          
+        </section>
+        <section id="section5">
+          
+        </section>
+        <section id="section6">
+          
+        </section>
+        <section id="section7">
+          
+        </section>
+
       </main>
     </div>
   );

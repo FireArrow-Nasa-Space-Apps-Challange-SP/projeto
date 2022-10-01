@@ -8,3 +8,12 @@ body {
   padding: 0;
   margin: 0;
 }
+
+section {
+  height: 100vh;
+  border: 3px solid aqua;
+}
+
+aside {
+  position: fixed;
+}
