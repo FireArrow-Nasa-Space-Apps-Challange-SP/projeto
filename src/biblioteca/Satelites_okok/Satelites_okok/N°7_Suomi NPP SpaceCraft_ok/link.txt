@@ -1,0 +1,8 @@
+sat1=https://www.eoportal.org/ftp/satellite-missions/s/SuomiNPP2021_250722/SuomiNPP2021_Auto4B.jpeg
+sat2=https://www.nasa.gov/sites/default/files/thumbnails/image/img_press_140106_suomi-npp.jpg
+
+
+png1 = https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/blackmarble_2016_americas_composite.png
+png2= https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/1881v1_20160524-ftmcmurray.png.jpg
+png3= https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/hurricanes_vir_2017251_lrg.jpg
+png4= https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/bigpinekeyfire.jpg
