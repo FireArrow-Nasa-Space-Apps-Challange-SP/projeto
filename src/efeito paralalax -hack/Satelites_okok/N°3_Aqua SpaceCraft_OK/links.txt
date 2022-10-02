@@ -1,0 +1,8 @@
+satelite = https://aqua.nasa.gov/sites/default/files/Aqua_sea_ice_image.jpg
+
+
+
+png1 = https://eoimages.gsfc.nasa.gov/images/imagerecords/150000/150375/norway_tmo_2022263_front.jpg
+png2 = https://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2677/airs_suite_ramasun.jpg
+png3 = https://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2152/ceres_science.jpg
+png4 = https://eoimages.gsfc.nasa.gov/images/imagerecords/2000/2752/amsre_ice_extent.jpg

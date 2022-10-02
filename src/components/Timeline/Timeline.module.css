@@ -21,21 +21,29 @@
 }
 
 .Active > h2 {
+    text-align: start;
     font-size: 30px;
+    color: white;
 }
 .Active > p {
+    color: white;
+    text-align: start;
     font-size: 17px !important;
 }
 
 .Container > h2 {
     margin-top: 10px;
     margin-bottom: 0;
+    color: white;
+    text-align: start;
 }
 
 .Container > p {
     transition: all 1s;
     font-size: 15px;
     margin-top: 0;
+    color: white;
+    text-align: start;
 }
 
 .Container:hover > p {
