@@ -47,7 +47,6 @@ h6 {
 colocar a cor do fundo pra branco*/
 main {
   display: block;
-  background-color: white;
 }
 
 /*entrar no conteiner, definir largura usual, máxima, tipo
@@ -59,6 +58,22 @@ de margem e preenchimento*/
   padding: 0 20px;
 }
 
+section {
+  color: white !important;
+}
+section > div > p {
+  text-align: left;
+}
+section > div > h2 {
+  font-size: 70px;
+  color: white !important;
+}
+
+.divSection {
+  display: flex;
+  margin-left: 15vw;
+  flex-direction: column;
+}
 /*entrar na section com a classe module e mudar a margem
 de baixo*/
 section.module p {
