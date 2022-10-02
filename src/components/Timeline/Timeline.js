@@ -4,7 +4,7 @@ import TimelineItem from './TimelineItem'
 
 function Timeline() {
     const [currentSectionId, setCurrentSectionId] = useState(false);
-    const history = useHistory();
+    // const history = useHistory();
 
     const getAllSections = () => {
         return [
@@ -44,7 +44,7 @@ function Timeline() {
         const currentSectionOffset = sectionOffsets.find(sectionOffset => {
             const anchor = window.location.hash.substr(1)
             if(anchor){
-               history.pushState({}, null, window.location.href.replace(window.location.hash, ''));
+            //    history.pushState({}, null, window.location.href.replace(window.location.hash, ''));
             }
             return window.location.hash.substr(1) === sectionOffset.id || (scrollTop > sectionOffset.top && scrollTop < sectionOffset.bottom)
         })
