@@ -54,13 +54,12 @@ function Timeline() {
     })
 
     const sections = [
-        {name:"Satélite Terra", date: "28/02/2003", id: 'section1'},
-        {name:"Satélite Água", date: "30/04/2015", id: 'section2'},
-        {name:"Satélite Fogo", date: "28/02/2003", id: 'section3'},
-        {name:"Satélite Ar", date: "28/02/2003", id: 'section4'},
-        {name:"Satélite Ar", date: "28/02/2003", id: 'section5'},
-        {name:"Satélite Ar", date: "28/02/2003", id: 'section6'},
-        {name:"Satélite Ar", date: "28/02/2003", id: 'section7'}
+        {name:"LandSat7", date: "28/02/2003", id: 'section1'},
+        {name:"Terra", date: "30/04/2015", id: 'section2'},
+        // {name:"Aqua", date: "28/02/2003", id: 'section3'},
+        // {name:"Aura", date: "28/02/2003", id: 'section4'},
+        // {name:"CloudSat", date: "28/02/2003", id: 'section5'},
+        // {name:"Calipso", date: "28/02/2003", id: 'section6'},
     ]
 
     return (
