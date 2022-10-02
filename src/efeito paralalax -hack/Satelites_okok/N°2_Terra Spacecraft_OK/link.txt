@@ -1,0 +1,11 @@
+
+sateleti 1 = https://space.skyrocket.de/img_sat/eos-am-1__1.jpg
+satelite 2 = https://www.universetoday.com/wp-content/uploads/2014/03/The_Aqua_Satellite.jpg
+
+
+
+Aster = https://terra.nasa.gov/wp-content/uploads/2014/03/maule_ast_2003099_web.jpg
+Ceres = https://terra.nasa.gov/wp-content/uploads/2014/08/CERES-banner.jpg
+Misr = https://terra.nasa.gov/wp-content/uploads/2014/08/MISR_katrina_web.jpg
+Modis = https://terra.nasa.gov/wp-content/uploads/2014/08/MODIS.jpg
+Mopitt =
