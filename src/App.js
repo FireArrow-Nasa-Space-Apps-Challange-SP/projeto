@@ -79,7 +79,6 @@ function App() {
         </section>
 
         <section id="sectionGuru2" className='sectionGuru'>
-          <h2>Curiosidades</h2>
           <div className='Guru'>
             <div className='BalaoDialogo'>
               <h3>Você sabia?</h3>
