@@ -46,7 +46,7 @@ section {
   padding-left: 20vw;
   padding-right: 10vw;
   
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .Mission > div {
@@ -98,7 +98,7 @@ section {
 }
 
 .VideoContent>div>h1 {
-  font-size: 50px;
+  font-size: 45x;
 }
 
 .MainVideo {
@@ -112,7 +112,7 @@ section>div>p {
 }
 
 section>h2 {
-  font-size: 70px;
+  font-size: 50px;
   color: white !important;
 }
 
@@ -154,7 +154,7 @@ section>h2 {
 }
 
 .BotaoExplore .bi {
-  font-size: 20px;
+  font-size: 16px;
   transition-delay: 0.8s;
   animation: bounce 1s infinite alternate;
 }
@@ -198,7 +198,7 @@ section>h2 {
 }
 
 .BalaoDialogo>h2 {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .BalaoDialogo>p {
@@ -241,8 +241,8 @@ section>h2 {
 }
 
 .NewTextAndImage > img{
-  height: 200px;
-  width: 200px;
+  height: 150px;
+  width: 150px;
 }
 
 .ImageTextAndImage {
