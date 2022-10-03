@@ -1,7 +1,0 @@
-1 = httpscloudsat.atmos.colostate.eduimagesCloudsat3-shrunk.jpg
-2 = https://www.asc-csa.gc.ca/images/recherche/tiles/16155ebc-e574-4f0a-9656-c37e2917bcbd.jpg
-
-https://cloudsat.atmos.colostate.edu/2016/nicole/hurricane_nicole.png
-https://cloudsat.atmos.colostate.edu/2016/nicole/cloudsat_nicole.png
-https://cloudsat.atmos.colostate.edu/2016/nicole/nicole_xsect.jpeg
-https://cloudsat.atmos.colostate.edu/2016/nicole/2016AL15_SRSNPPIR_201610121756_cs.png

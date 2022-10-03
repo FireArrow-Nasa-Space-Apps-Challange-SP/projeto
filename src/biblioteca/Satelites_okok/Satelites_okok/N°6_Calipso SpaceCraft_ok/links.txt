@@ -1,8 +1,0 @@
-sat1=https://www-calipso.larc.nasa.gov/about/images/A-Train_2006.jpg
-sat2=https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto20.jpeg
-sat3= https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto11.jpeg
-
-png = https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto18.jpeg
-png2 = https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto17.jpeg
-png3 = https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto16.jpeg
-png4 = https://www.eoportal.org/ftp/satellite-missions/c/Calipso_110821/Calipso_Auto14.jpeg

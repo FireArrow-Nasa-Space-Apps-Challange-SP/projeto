@@ -1,5 +1,0 @@
-Satelite = https://aura.gsfc.nasa.gov/images/aura2013-print0368-small.jpg
-
-png1=https://aura.gsfc.nasa.gov/images/tes20180213-16.jpg
-png2=https://aura.gsfc.nasa.gov/images/instruments/T_ClO_92_93.gif
-png3=https://aura.gsfc.nasa.gov/images/science/20220303a.jpg
