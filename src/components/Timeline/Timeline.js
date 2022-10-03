@@ -8,7 +8,7 @@ function Timeline() {
     // const history = useHistory();
 
     function verifyAndScrollSetCurrentSectionId(newId){
-        if(newId != currentSectionId){
+        if(newId !== currentSectionId){
             setCurrentSectionId(newId)
             // const sectionOffset = getSectionOffsetById(currentSectionId)
 
@@ -53,7 +53,7 @@ function Timeline() {
         const sectionOffsets = getAllSections()
 
         const currentSectionOffset = sectionOffsets.find(sectionOffset => {
-            if(window.location.hash && currentHash != window.location.hash){
+            if(window.location.hash && currentHash !== window.location.hash){
                 setCurrentHash(window.location.hash)
                 return window.location.hash.substr(1) === sectionOffset.id
             }else {
@@ -76,7 +76,7 @@ function Timeline() {
         {name:"LandSat7", date: "15/04/99", id: 'sectionLandSat7'},
         {name:"Terra", date: "18/12/99", id: 'sectionTerra'},
         {name:"Aqua", date: "4/05/02", id: 'sectionAqua'},
-        {name:"Aura", date: "28/02/2003", id: 'sectionAura'}
+        {name:"Aura", date: "15/07/04", id: 'sectionAura'}
     ]
 
     return (

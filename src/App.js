@@ -36,7 +36,7 @@ function App() {
                 <p>Olá caro Viajante, me chamo Buss e irei acompanhar você nesta jornada de conhecimento. Acho que você deve conhecer um pouco sobre missões de observação da terra, não? Bom, aqui nós iremos contar quais foram estas missões e seus objetivos.</p>
                 <p>AAAAH e logo abaixo já teremos nossa primeira missão de observação, venha ver!</p>
               </div>
-              <img src={process.env.PUBLIC_URL + 'guru5.png'} className="GuruImage" />
+              <img alt="" src={process.env.PUBLIC_URL + 'guru5.png'} className="GuruImage" />
             </div>
             <a href="#sectionLandSat7" className="BotaoExplore">
               Explore <i className="bi bi-arrow-down-short"></i>
@@ -54,7 +54,7 @@ function App() {
               <p className='TextAndImage'>Ele você certamente conhece...</p>
               <p className='TextAndImage'>Ou não! Mas,</p>
               <div className='TextAndImage'>
-                <img src={process.env.PUBLIC_URL + 'imagem1.png'} className="ImagemSatelite" />
+                <img alt="" src={process.env.PUBLIC_URL + 'imagem1.png'} className="ImagemSatelite" />
                 <p className='padding-left'>O sétimo lançamento da série de satélites LandSat veio com o objetivo de apresentar inovações tecnológicas na calibração suas Wmedições são extremamente precisas quando comparadas com as mesmas medições feitas no solo. O sensor do Landsat 7 foi chamado de “o instrumento de observação da Terra mais estável e melhor caracterizado já colocado em órbita”. Os rigorosos padrões de calibração do Landsat 7 o tornaram a escolha de validação para muitos sensores de resolução grosseira.</p>
               </div>
               <div className='TextAndImage'>
@@ -62,7 +62,7 @@ function App() {
                   <p>A missão tinha como objetivo maior garantir uma cobertura sazonal global iluminada pelo sol, ou seja, buscar ao máximo fugir de nuvens para captar novas imagens do Planeta.</p>
                   <p>Sua tecnologia ainda foi útil em diversas outras áreas, acelerando o desenvolvimento da Aviação, Gestão de Carbono e até Gerência de água</p>
                 </p>
-                <img src={process.env.PUBLIC_URL + 'imagem2.jpg'} className="ImagemSatelite padding-left" />
+                <img alt="" src={process.env.PUBLIC_URL + 'imagem2.jpg'} className="ImagemSatelite padding-left" />
               </div>
               <div className='divExplore'>
                 <a href="#sectionGuru2" className="BotaoExploreMission">
@@ -85,7 +85,7 @@ function App() {
               <h3>Você sabia?</h3>
               <p>Você sabia que a NASA criou o Office of Planetary Protection (Escritório de Proteção Planetária) para caso encontrarmos vida inteligente fora da Terra. E esse escritório serve para proteger tanto as descobertas quanto o nosso próprio planeta.</p>
             </div>
-            <img src={process.env.PUBLIC_URL + 'guru4.png'} className="GuruImage" />
+            <img alt="" src={process.env.PUBLIC_URL + 'guru4.png'} className="GuruImage" />
           </div>
           <a href="#sectionTerra" className="BotaoExplore">
             Explore <i className="bi bi-arrow-down-short"></i>
@@ -96,8 +96,8 @@ function App() {
           <h2>Terra</h2>
           <div>
             <div className='Images'>
-              <img src={process.env.PUBLIC_URL + 'MOPITT.jpg'} />
-              <img src={process.env.PUBLIC_URL + 'MODIS.jpg'} />
+              <img alt="" src={process.env.PUBLIC_URL + 'MOPITT.jpg'} />
+              <img alt="" src={process.env.PUBLIC_URL + 'MODIS.jpg'} />
             </div>
             <div>
               <p> O satélite foi lançado na Base Aérea de Vandenberg, em 18 de dezembro de 1999, a bordo de um Atlas II, e começou a coletar dados em 24 de fevereiro de 2000 (EOS), como  dados críticos usados ​​em aplicações de segurança alimentar, monitoramento vulcânico, segurança contra incêndios florestais, saúde pública e modelagem climática.</p>
@@ -127,7 +127,7 @@ function App() {
               <h3>Você sabia?</h3>
               <p>A NASA já registrou mais de 3 milhões de fotos feitas pelo satélite Terra, em órbita desde 1999. Todas essas fotos são de domínio público.</p>
             </div>
-            <img src={process.env.PUBLIC_URL + 'guru3.png'} className="GuruImage" />
+            <img alt="" src={process.env.PUBLIC_URL + 'guru3.png'} className="GuruImage" />
 
           </div>
           <a href="#sectionAqua" className="BotaoExplore">
@@ -138,8 +138,8 @@ function App() {
         <section id="sectionAqua" className='Mission'>
           <h2>Aqua</h2>
           <div className='NewTextAndImage'>
-            <img src={process.env.PUBLIC_URL + 'imagem3.jpg'}/>
-            <img src={process.env.PUBLIC_URL + 'imagem4.jpg'} />
+            <img alt="" src={process.env.PUBLIC_URL + 'imagem3.jpg'}/>
+            <img alt="" src={process.env.PUBLIC_URL + 'imagem4.jpg'} />
           </div>
           <div className='NewTextAndImage'>
             <p>
@@ -171,7 +171,7 @@ function App() {
               <p>Para ser considerado oficialmente um astronauta da NASA, você precisa viajar pelo menos 80 km acima da superfíce da Terra.</p>
               <p>Opa!!! Acabei de receber uma mensagem e terei que ir para uma missão espacial, mas antes de ir, lhe contarei sobre mais um satélite, e quando eu voltar prometo que irei trazer mais informações.</p>
             </div>
-            <img src={process.env.PUBLIC_URL + 'guru2.png'} className="GuruImage" />
+            <img alt="" src={process.env.PUBLIC_URL + 'guru2.png'} className="GuruImage" />
           </div>
           <a href="#sectionAura" className="BotaoExplore">
             Explore <i className="bi bi-arrow-down-short"></i>
@@ -182,7 +182,7 @@ function App() {
           <h2>Aura</h2>
           <div>
           <div className='NewTextAndImage'>
-            <img src={process.env.PUBLIC_URL + 'imagem5.gif'}/>
+            <img alt="" src={process.env.PUBLIC_URL + 'imagem5.gif'}/>
           </div>
             <p>Olá viajante, bem vindo, aqui você entenderá um pouco sobre o satélite Aura. Primeiramente, irei lhe explicar um pouco sobre a camada de ozônio, você com certeza já ouviu falar dela.</p>
             <p>A camada de ozônio é uma camada gasosa que filtra a radiação ultravioleta vinda do sol, protegendo os seres humanos. Se a camada de ozônio diminuir você queima mais rápido, além disso, a radiação UV também pode causar câncer de pele.</p>
