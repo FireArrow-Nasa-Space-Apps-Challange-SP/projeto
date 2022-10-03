@@ -20,7 +20,7 @@ function App() {
           <div className="VideoContent">
             <div>
               <h1>Descubra mais sobre as missões de observação da Terra!</h1>
-              <p>Tera Views é um projeto que busca facilitar e organizar as informações das principais missões de visualização da terra feitas pela NASA.</p>
+              <p>Tera View é um projeto que busca facilitar e organizar as informações das principais missões de visualização da terra feitas pela NASA.</p>
             </div>
             <a href="#sectionGuru" className="BotaoExplore">
               Explore <i className="bi bi-arrow-down-short"></i>
